@@ -1,0 +1,4 @@
+package: github.com/dcu/gin-scaffold
+import:
+- package: github.com/volatiletech/inflect
+- package: github.com/mgutz/ansi
