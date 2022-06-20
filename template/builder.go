@@ -8,7 +8,7 @@ import (
 	"strings"
 	"text/template"
 
-	"bitbucket.org/pkg/inflect"
+	"github.com/volatiletech/inflect"
 )
 
 type state struct {

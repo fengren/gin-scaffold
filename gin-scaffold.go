@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/dcu/gin-scaffold/command"
+	"github.com/fengren/gin-scaffold/command"
 )
 
 func printUsageAndExit() {

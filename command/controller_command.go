@@ -5,8 +5,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"bitbucket.org/pkg/inflect"
-	"github.com/dcu/gin-scaffold/template"
+	"github.com/volatiletech/inflect"
+	"github.com/fengren/gin-scaffold/template"
 )
 
 type ControllerCommand struct {

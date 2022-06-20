@@ -48,7 +48,7 @@ func ImportPath() string {
 	if found == "" {
 		found = paths[0]
 	}
-	return filepath.Join(found, "src/github.com/dcu/gin-scaffold")
+	return filepath.Join(found, "src/github.com/fengren/gin-scaffold")
 }
 
 func TemplatePath(name string) string {

@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/dcu/gin-scaffold/template"
+	"github.com/fengren/gin-scaffold/template"
 )
 
 var (
