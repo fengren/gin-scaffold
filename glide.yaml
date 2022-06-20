@@ -1,4 +1,4 @@
-package: github.com/dcu/gin-scaffold
+package: github.com/fengren/gin-scaffold
 import:
 - package: github.com/volatiletech/inflect
 - package: github.com/mgutz/ansi
